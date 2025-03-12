@@ -1,16 +1,19 @@
-# My Fruit Website 🍎🍊🍑  
+🍎 My Fruit Website 🍊
 
-This is a small website where I collected information about some of my favorite fruits, with images and links for each one.  
+A small website about my favorite fruits, with images and links
 
-## 💻 How to Open the Website?  
-🔗 [Website Link](https://lome5.github.io/university-lab-projects/)  
+🔗 Check it out here:
 
-## 📂 What’s Inside?  
-- `index.html` → The main page  
-- `Apples.html` → All about apples 🍏  
-- `oranges.html` → All about oranges 🍊  
-- `peach.html` → All about peaches 🍑  
-- Images and videos to make everything clearer  
+Visit the Website
 
-## 🚀 How to Use It?  
-Just open `index.html` in your browser or click the link above, and that's it! 😃  
+📂 What’s Inside?
+	index.html → Main page
+	apples.html → About apples 🍏
+	oranges.html → About oranges 🍊
+	peach.html → About peaches 🍑
+
+Includes images & videos for a fun experience🎀
+
+🚀 How to Use?
+
+Just open index.html or click the link above💖
