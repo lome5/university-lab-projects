@@ -1,4 +1,4 @@
-🍎 My Fruit Website 🍊
+ My Fruit Website.
 
 A small website about my favorite fruits, with images and links
 
@@ -8,9 +8,13 @@ A small website about my favorite fruits, with images and links
 
  
 📂 What’s Inside?
+
 	index.html → Main page
+ 
 	apples.html → About apples 🍏
+ 
 	oranges.html → About oranges 🍊
+ 
 	peach.html → About peaches 🍑
 
 Includes images & videos for a fun experience🎀
