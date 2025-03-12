@@ -4,8 +4,7 @@ A small website about my favorite fruits, with images and links
 
 🔗 Check it out here:
 
-Visit the Website
-
+ [Visit the Website](https://lome5.github.io/university-lab-projects/)
 📂 What’s Inside?
 	index.html → Main page
 	apples.html → About apples 🍏
